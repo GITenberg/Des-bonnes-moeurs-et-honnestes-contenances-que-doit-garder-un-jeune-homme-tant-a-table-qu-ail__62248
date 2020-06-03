@@ -1,0 +1,43 @@
+_repo: Des-bonnes-moeurs-et-honnestes-contenances-que-doit-garder-un-jeune-homme-tant-a-table-qu-ail__62248
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Broë, Pierre
+    alias: Broe, Pierre
+    gutenberg_agent_id: '51849'
+    url: http://www.gutenberg.org/2009/agents/51849
+creator:
+  author:
+    agent_name: Sulpitius Verulanus, Joannes, active 15th century
+    aliases:
+    - Verulanus, Joannes Sulpitius
+    - Sulpicius, Joannes
+    - Sulpizio, Jean
+    - Sulpitius, Johannes
+    - Sulpizio, Giovanni
+    gutenberg_agent_id: '51848'
+    url: http://www.gutenberg.org/2009/agents/51848
+    wikipedia: https://en.wikipedia.org/wiki/Giovanni_Sulpizio_da_Veroli
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- FR Education et Enseignement
+- FR Nouveautés
+gutenberg_issued: '2020-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62248'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Early works to 1800'
+- !lcc 'BJ'
+- GITenberg
+title: "Des bonnes moeurs et honnestes contenances que doit garder un jeune homme,\
+  \ tant à table qu'ailleurs, avec autres notables enseignemens\r\nOeuvre composé\
+  \ premierement en latin par M. Jean Sulpice de Saint-Alban, dit Verulan. Et nouvellement\
+  \ tourné & traduit en rime françoise par paraphrase par M. Pierre Broë practicien\
+  \ de Tournon sur le Rhosne"
+url: http://www.gutenberg.org/ebooks/62248
